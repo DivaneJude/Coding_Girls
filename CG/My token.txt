@@ -1,0 +1,7 @@
+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
+
+
+git clone https://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@github.com/DivaneJude/Coding_Girls.git
+
+git remote set url origin https://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@github.com/DivaneJude/Coding_Girls.git
+
